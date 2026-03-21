@@ -11,4 +11,8 @@
   <Project Path="07_aula/07_aula.csproj" />
   <Project Path="08_classe/08_classe.csproj" />
   <Project Path="09_variaveis/09_variaveis.csproj" />
+  <Project Path="10_calculadora_classe/10_calculadora_classe.csproj" />
+  <Project Path="11_produto/11_produto.csproj" />
+  <Project Path="12_calculadora_dio/12_calculadora_dio.csproj" />
+  <Project Path="13_funcoes_trigonometricas/13_funcoes_trigonometricas.csproj" />
 </Solution>
